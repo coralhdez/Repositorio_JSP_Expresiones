@@ -19,6 +19,6 @@
         <br />
         ID de la sesión: <%= session.getId() %>
         <br />
-        <a href="index.html">Inicio</a>
+        <a href="procesarFormulario2.jsp">Procesar Formulario 2</a>
     </body>
 </html>
